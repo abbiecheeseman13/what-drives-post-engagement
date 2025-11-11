@@ -8,7 +8,7 @@ Using Python for analysis and Tableau for visualization, the project identifies 
 
 ## 📊 Project Overview
 - **Goal:** Determine which post attributes (type, time, paid vs. organic) most influence engagement.  
-- **Dataset:** [Facebook Metrics of a Cosmetic Brand](https://www.kaggle.com/datasets) — 500 posts, 20 variables.  
+- **Dataset:** [Facebook Metrics of a Cosmetic Brand]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/dileeppatchaone/facebook-metrics-dataset-of-cosmetic-brand)) — 500 posts, 20 variables.  
 - **Tools:**  
   - **Python:** Pandas, Matplotlib, scikit-learn  
   - **Modeling:** Linear Regression, Random Forest Regressor  
